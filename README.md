@@ -1,3 +1,16 @@
+# Project Image 
+## Home
+![My Image](output_jpg/home.jpg)
+
+## Transaction 
+![My Image](output_jpg/transaction.png)
+
+## Report 
+![My Image](output_jpg/report.png)
+
+## About 
+![My Image](output_jpg/about.png)
+
 # front_end_design
 
 ## Project setup
