@@ -1,4 +1,4 @@
-# Project Image 
+# Project Output 
 ## Home
 ![My Image](output_jpg/home.jpg)
 
@@ -11,7 +11,13 @@
 ## About 
 ![My Image](output_jpg/about.png)
 
-# front_end_design
+# Getting start to running this project
+### Library Include
+```
+- Vue 2
+- Vuetify 
+- Vue Router
+```
 
 ## Project setup
 ```
